@@ -1,0 +1,12 @@
+.MovieListDesign ol{
+	padding: 0;
+	margin: 0;
+	max-width: 700px;
+	position: relative;
+}
+
+.MovieListDesign li {
+	padding: 0.5rem 1.5rem 1rem;
+	border-radius: 1.5rem;
+	background: grey;
+}
