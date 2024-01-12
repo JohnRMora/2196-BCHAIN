@@ -1,0 +1,18 @@
+* {
+  font-family: "Lucida Console", "Courier New", monospace;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+div {
+  text-align: center;
+  background-color: lightblue;
+  color: white;
+  width: 500px;
+  display: block;
+}
+
+h1 {
+  color: black;
+}
+
